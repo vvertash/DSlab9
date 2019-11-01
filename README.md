@@ -212,7 +212,7 @@ rs0:PRIMARY> rs.config()
     "replicaSetId" : ObjectId("5dbc8fc26468c43cff42cb5a")
   }
 }
-rs0:PRIMARY>```
+rs0:PRIMARY>
 
 step
 ![Image alt](https://github.com/vvertash/DSlab9/blob/master/screen1.jpg)
