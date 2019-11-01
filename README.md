@@ -215,4 +215,4 @@ rs0:PRIMARY> rs.config()
 rs0:PRIMARY>
 
 step
-![Image alt](https://github.com/vvertash/DSlab9/blob/master/screen1.jpg)
+![alt text](https://github.com/vvertash/DSlab9/blob/master/screen1.jpg)
