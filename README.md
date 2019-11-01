@@ -213,3 +213,4 @@ rs0:PRIMARY> rs.config()
   }
 }
 rs0:PRIMARY>```
+![Image alt] (https://github.com/vvertash/DSlab9/blob/master/screen1.jpg)
